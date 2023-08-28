@@ -1,2 +1,2 @@
 # PA-TappyFish
-Pantheon Akademi#2 Tappy Fish
+Panteon Akademi #2 Tappy Fish

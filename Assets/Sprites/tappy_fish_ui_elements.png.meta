@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 5023a8cd6ce44644a954c0dd33513648
+guid: bb0226ea3ad6818479c745cffdead24c
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,18 +125,6 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: Windows Store Apps
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -144,10 +132,10 @@ TextureImporter:
       name: Background
       rect:
         serializedVersion: 2
-        x: 51
-        y: 509
+        x: 50
+        y: 512
         width: 698
-        height: 1234
+        height: 1228
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -155,8 +143,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0325853e643db24488829f2394ae323f
-      internalID: 73362423
+      spriteID: 0ce8ff95efb3c7e48a34fcfb523a0fe7
+      internalID: -746683373
       vertices: []
       indices: 
       edges: []
@@ -176,8 +164,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 278a6ef71c7b74c439da430360445b9a
-      internalID: -1869032726
+      spriteID: 148966936c8c5e142abb799685faee2c
+      internalID: 436800785
       vertices: []
       indices: 
       edges: []
@@ -197,14 +185,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6221c160503729f46b2ded2bcf488cc4
-      internalID: 130749817
+      spriteID: 078a851cbb5c63548897259f65e9940a
+      internalID: 1383937805
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GoldMedal
+      name: BronzMedal
       rect:
         serializedVersion: 2
         x: 1454
@@ -218,14 +206,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 72fb7d5f64ab7fe4da792a78a92dc72a
-      internalID: -278922690
+      spriteID: 910bec79d78f5e44c9c7e2b625a0adbc
+      internalID: -636503898
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BronzeMedal
+      name: GoldMedal
       rect:
         serializedVersion: 2
         x: 1745
@@ -239,8 +227,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e098d89c167bb4a4f9f5d19a3239d4ce
-      internalID: -395457465
+      spriteID: 13f2e56e4385a6040bb98926478c4f80
+      internalID: -1750198859
       vertices: []
       indices: 
       edges: []
@@ -249,7 +237,7 @@ TextureImporter:
       name: Fish_2
       rect:
         serializedVersion: 2
-        x: 2003
+        x: 2005
         y: 1232
         width: 281
         height: 212
@@ -260,8 +248,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c9d0b5fca18de914e95e9b62d9f5b618
-      internalID: -880723203
+      spriteID: af2c31f8f1e5348409c6746925c5ded1
+      internalID: 55738327
       vertices: []
       indices: 
       edges: []
@@ -270,7 +258,7 @@ TextureImporter:
       name: SilverMedal
       rect:
         serializedVersion: 2
-        x: 1456
+        x: 1457
         y: 913
         width: 225
         height: 225
@@ -281,8 +269,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1350031c7815c4b46b57b4a747aaa4f7
-      internalID: -537634368
+      spriteID: b82e448a72abae047a01b12faa25d71c
+      internalID: -734814903
       vertices: []
       indices: 
       edges: []
@@ -291,7 +279,7 @@ TextureImporter:
       name: MetalMedal
       rect:
         serializedVersion: 2
-        x: 1751
+        x: 1752
         y: 915
         width: 226
         height: 227
@@ -302,17 +290,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e42ef62cfab42514a87887e46838a99f
-      internalID: 2032412229
+      spriteID: 025a617d404ce894ab2e58a2dff5c8b7
+      internalID: -1079326485
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "F\u0130sh_3"
+      name: Fish_3
       rect:
         serializedVersion: 2
-        x: 2002
+        x: 2005
         y: 946
         width: 287
         height: 213
@@ -323,8 +311,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 07aec58b3c724d34eabbb775c6e2d5ca
-      internalID: -1255562935
+      spriteID: 43c121d3f29e7da49b7fe543ff3ab730
+      internalID: -2014837439
       vertices: []
       indices: 
       edges: []
@@ -333,10 +321,10 @@ TextureImporter:
       name: TapPanel
       rect:
         serializedVersion: 2
-        x: 776
+        x: 781
         y: 871
-        width: 644
-        height: 620
+        width: 630
+        height: 627
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -344,8 +332,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3da35d774843a1041ad6b4b4ca58bea1
-      internalID: 525504274
+      spriteID: 42c206da70e9aaf4b90be8e540babd66
+      internalID: -1270464072
       vertices: []
       indices: 
       edges: []
@@ -365,8 +353,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1e0a1767e16d60b4d88f1b4ed24f75f5
-      internalID: 1087435199
+      spriteID: 97ec23a117eb8894c9bf7c5924983461
+      internalID: 907620666
       vertices: []
       indices: 
       edges: []
@@ -375,7 +363,7 @@ TextureImporter:
       name: Restart
       rect:
         serializedVersion: 2
-        x: 1851
+        x: 1852
         y: 735
         width: 183
         height: 101
@@ -386,8 +374,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c8d4f803329ede847b5b417456b2d44b
-      internalID: -2040705967
+      spriteID: dd35ad1d68639c54da1cec9747702c01
+      internalID: 1241996530
       vertices: []
       indices: 
       edges: []
@@ -407,8 +395,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3b2198386c97dfb4b8a95f7ab31e74c9
-      internalID: 1332665893
+      spriteID: a7ed030c301004747a6d00e62cec565b
+      internalID: -1270092720
       vertices: []
       indices: 
       edges: []
@@ -417,19 +405,19 @@ TextureImporter:
       name: Ground
       rect:
         serializedVersion: 2
-        x: 29
-        y: 77
-        width: 1055
-        height: 340
+        x: 48
+        y: 79
+        width: 1036
+        height: 338
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 19, y: 0, z: 0, w: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bbd5b30e32b562c4098e7e7a2aafee54
-      internalID: 1432706862
+      spriteID: e99dc5cc2e5f08b44aaaaedd18ad4967
+      internalID: 1167219441
       vertices: []
       indices: 
       edges: []
@@ -440,7 +428,7 @@ TextureImporter:
         serializedVersion: 2
         x: 1547
         y: 346
-        width: 530
+        width: 534
         height: 132
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -449,8 +437,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cd793f58396750c4fb134f194929d6d9
-      internalID: 1276745352
+      spriteID: b4941f17fff15914c96fc03501ff3eac
+      internalID: -2082996116
       vertices: []
       indices: 
       edges: []
@@ -470,8 +458,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f97f7a25fd78fa94baf6c958178d2b91
-      internalID: 1977594
+      spriteID: 81d2ee7ea7d02974cb49b175bd85eec7
+      internalID: -153628299
       vertices: []
       indices: 
       edges: []
@@ -481,8 +469,8 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1567
-        y: 71
-        width: 498
+        y: 69
+        width: 499
         height: 85
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -491,8 +479,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c21988b033cb83f449de1361dec3c7c4
-      internalID: -1850991994
+      spriteID: e1d19c91a2892cc4ca0b080d5e48f5b4
+      internalID: -145734347
       vertices: []
       indices: 
       edges: []
@@ -508,33 +496,33 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      GoldMedal: -278922690
-      Obstacle: -1869032726
-      TapPanel: 525504274
-      tappy_fish_ui_elements_23: 1825139600
-      Fish_1: 130749817
-      tappy_fish_ui_elements_10: 2017904759
-      TapRight: -1095085999
-      Fish_2: -880723203
-      DeadFish: 912531076
-      ScoreBoard: 1087435199
-      SilverMedal: -537634368
-      tappy_fish_ui_elements_9: 1338194650
-      tappy_fish_ui_elements_4: 1832071521
-      GameOver: -1850991994
-      TappyFish: 1276745352
-      New: 1332665893
-      TapLeft: 1131509116
-      Restart: -2040705967
-      BronzeMedal: -395457465
-      tappy_fish_ui_elements_11: 1016124243
-      Background: 73362423
-      tappy_fish_ui_elements_26: 2120057075
-      "F\u0130sh_3": -1255562935
-      Ground: 1432706862
-      MetalMedal: 2032412229
-      GetReady: 1977594
-      ArrowUp: -1150486503
+      GoldMedal: -1750198859
+      Obstacle: 436800785
+      TapPanel: -1270464072
+      tappy_fish_ui_elements_23: 941328017
+      Fish_1: 1383937805
+      tappy_fish_ui_elements_10: -1690719759
+      Fish_2: 55738327
+      ScoreBoard: 907620666
+      SilverMedal: -734814903
+      tappy_fish_ui_elements_9: 985641296
+      BronzMedal: -636503898
+      tappy_fish_ui_elements_4: 739866274
+      GameOver: -145734347
+      TappyFish: -2082996116
+      New: -1270092720
+      tappy_fish_ui_elements_15: 310736116
+      Restart: 1241996530
+      tappy_fish_ui_elements_8: 253129724
+      tappy_fish_ui_elements_11: 496656231
+      Background: -746683373
+      Fish_3: -2014837439
+      tappy_fish_ui_elements_26: -1140278489
+      Ground: 1167219441
+      MetalMedal: -1079326485
+      tappy_fish_ui_elements_3: -1323904131
+      GetReady: -153628299
+      tappy_fish_ui_elements_17: -1566438854
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
